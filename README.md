@@ -7,3 +7,6 @@ I'm also married to an amazing wife with whom I share the most wonderful moments
 ## Contact
 
 [<img src="https://luisdonin.github.io/cv/img/wapp.png" width="48px">](https://api.whatsapp.com/send/?phone=5545984039870&text&type=phone_number&app_absent=0)
+
+## Tech Stack
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdonin&hide=javascript,css,scss,html&theme=light)
