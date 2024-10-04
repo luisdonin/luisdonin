@@ -1,4 +1,4 @@
-<a href="https://gitroll.io/profile/uzHoyTilwn1ZpwOYgc5uuK8MNk5P2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uzHoyTilwn1ZpwOYgc5uuK8MNk5P2" alt="GitRoll Profile Badge"/></a>
+
 ## Contact
 
 [<img src="https://luisdonin.github.io/cv/img/wapp.png" width="48px">](https://api.whatsapp.com/send/?phone=5545984039870&text&type=phone_number&app_absent=0)
