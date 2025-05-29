@@ -5,7 +5,4 @@
 [<img src="https://luisdonin.github.io/cv/img/youtube.png" width="48px">](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
 [<img src="https://github.com/user-attachments/assets/3bd5b314-80f0-48cc-96ee-59ec34b52f5c" width="48px">](https://stackoverflow.com/users/17108264/0x00nullpointer)
 
-https://github.com/user-attachments/assets/3bd5b314-80f0-48cc-96ee-59ec34b52f5c
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdonin&hide=javascript,jupyter,tex,css,scss,html&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdonin&hide=javascript,jupyter,tex,css,scss,html&theme=light)
