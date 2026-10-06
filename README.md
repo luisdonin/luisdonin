@@ -1,5 +1,5 @@
 ## Who am I?
-Well, I always struggled to make this professional, but what the heck
+Well, I've always struggled to make this professional, but what the heck
 My favorite thing about our field is low level programming, although I am versed in other facets of computer science, 
 I enjoy coding in C and x86_64 assembly, however, I now mostly use PHP with Laravel at work and Java SpringBoot at college.
 I have used a myriad of solutions since 2013 when I first started my academic journey in IT, but now I use what I enjoy, 
