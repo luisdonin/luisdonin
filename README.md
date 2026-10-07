@@ -47,7 +47,8 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 ## Education
   * Tecnologia de Sistemas para Internet - Universidade Tecnologica Federal do Paraná
  
-
+## Certificates
+* [Certificates](https://luisdonin.github.io/aboutme/certificates.html)
   
   
 
