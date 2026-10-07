@@ -8,8 +8,13 @@ I also like to use as much Linux stuff on Android, be it with Termux or other so
 You can see some of the projects I finished (and unfinished) on my Github repositories but I also have a lot of private unfinished stuff.
 I guess that's that.
 I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we have to use I guess, but I try to avoid as much as possible
+## Technologies I use at work
+* BPMN Workflow engine - A proprietary engine that implements BPMN elements for distributed systems
+* BIRT - Business Intelligence and Reporting Tools for creating report templates, which are used with BPMN workflows and Digital Processess
+* Laravel for internal systems such as [Estrutura Organizacional](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional), which has Laravel under the hood for CRUD operations
+* Mysql with Workflows and Laravel
+* Docker
 ## Profiles
-
 [<img src="https://luisdonin.github.io/cv/img/youtube.png" width="48px">](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
 ### [ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
 
