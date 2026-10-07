@@ -8,7 +8,8 @@ I also like to use as much Linux stuff on Android, be it with Termux or other so
 You can see some of the projects I finished (and unfinished) on my Github repositories but I also have a lot of private unfinished stuff.
 I guess that's that.
 I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we have to use I guess, but I try to avoid as much as possible
-## My Channel on Youtube
+## Profiles
+[ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
 [<img src="https://luisdonin.github.io/cv/img/youtube.png" width="48px">](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
 
 ## Portarias
@@ -32,5 +33,6 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
  
   ## Research
   * [Gerador de Chaves Presentes em Instruções de Máquina por Teoria de Satisfabilidade do Módulo](https://github.com/luisdonin/Gerador-de-Chaves-Presente-sem-Instrucoes-de-Maquina-por-Teoria-de-Satisfabilidade-do-Modulo)
+  
   
 
