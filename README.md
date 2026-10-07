@@ -22,7 +22,7 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * RabbitMQ
 * BI, Business Process Model Notation (BPMN), Business Intelligence and Reporting Tools (BIRT)
 * Docker
-* MYSQL, Postgres, MongoDB
+* Mysql, Postgres, MongoDB
 ## Profiles
 * [Youtube](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
 * [ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
