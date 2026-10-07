@@ -1,3 +1,16 @@
+## TL;DR
+* I have experience with:
+* Java
+* PHP
+* C
+* x86_64 Assembly
+* Laravel
+* Spring Boot
+* RabbitMQ
+* BI
+* Business Process Model Notation (BPMN)
+* Business Intelligence and Reporting Tools (BIRT)
+* Docker
 ## Who am I?
 Well, I've always struggled to make these professional, but what the heck. 
 My favorite thing about our field is low level programming, although I am versed in other facets of computer science, 
