@@ -1,19 +1,4 @@
-## TL;DR
-* I have experience with:
-* Java
-* PHP
-* C
-* x86_64 Assembly
-* Laravel
-* Spring Boot
-* RabbitMQ
-* BI
-* Business Process Model Notation (BPMN)
-* Business Intelligence and Reporting Tools (BIRT)
-* Docker
-* MYSQL
-* PostgreSQL
-* MongoDB
+
 ## Who am I?
 Well, I've always struggled to make these professional, but what the heck. 
 My favorite thing about our field is low level programming, although I am versed in other facets of computer science, 
@@ -30,6 +15,14 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * Laravel for internal systems such as [Estrutura Organizacional](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional), which has Laravel under the hood for CRUD operations
 * Mysql with Workflows and Laravel
 * Docker
+## TL;DR
+* I have experience with:
+* Java, PHP, C, x86_64 Assembly
+* Laravel, Spring Boot
+* RabbitMQ
+* BI, Business Process Model Notation (BPMN), Business Intelligence and Reporting Tools (BIRT)
+* Docker
+* MYSQL, PostgreSQL, MongoDB
 ## Profiles
 * [Youtube](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
 * [ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
