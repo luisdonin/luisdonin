@@ -16,7 +16,7 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * Mysql and Postgres with Workflows and Laravel
 * Docker
 ## TL;DR
-* I have experience with:
+### I have experience with:
 * Java, PHP, C, x86_64 Assembly
 * Laravel, Spring Boot
 * RabbitMQ
