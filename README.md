@@ -33,12 +33,12 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * [Estrutura Organizacional - Secretaria de Educação](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional-secretaria-de-educacao)
 * [Acesso à Informação](https://marechalcandidorondon.atende.net/autoatendimento/servicos/acesso-a-informacao)
 * [Portal da Transparencia - Publicidade e Propaganda](https://www.mcr.pr.gov.br/transparencia/item/publicidade-e-propaganda)
-
-  ## Education
+## Research
+  * [Gerador de Chaves Presentes em Instruções de Máquina por Teoria de Satisfabilidade do Módulo](https://github.com/luisdonin/Gerador-de-Chaves-Presente-sem-Instrucoes-de-Maquina-por-Teoria-de-Satisfabilidade-do-Modulo)
+## Education
   * Tecnologia de Sistemas para Internet - Universidade Tecnologica Federal do Paraná
  
-  ## Research
-  * [Gerador de Chaves Presentes em Instruções de Máquina por Teoria de Satisfabilidade do Módulo](https://github.com/luisdonin/Gerador-de-Chaves-Presente-sem-Instrucoes-de-Maquina-por-Teoria-de-Satisfabilidade-do-Modulo)
+
   
   
 
