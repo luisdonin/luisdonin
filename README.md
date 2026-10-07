@@ -11,7 +11,7 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 ## Profiles
 
 [<img src="https://luisdonin.github.io/cv/img/youtube.png" width="48px">](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
-[ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
+### [ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
 
 ## Portarias
 * [Responsável pelo Serviço de Informação ao Cidadão - Portaria nº 1893/2026 de 14/09/2026](https://plenussistemas.dioenet.com.br/uploads/view/37351?utm_edicao=3683)
