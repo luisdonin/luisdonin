@@ -13,7 +13,7 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * BPMN Workflow engine, a proprietary engine that implements BPMN elements for distributed systems
 * BIRT - Business Intelligence and Reporting Tools for creating report templates, which are used with BPMN workflows and Digital Processess
 * Laravel for internal systems such as [Estrutura Organizacional](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional), which has Laravel under the hood for CRUD operations
-* Mysql and PostgreSQLwith Workflows and Laravel
+* Mysql and Postgres with Workflows and Laravel
 * Docker
 ## TL;DR
 * I have experience with:
@@ -22,7 +22,7 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * RabbitMQ
 * BI, Business Process Model Notation (BPMN), Business Intelligence and Reporting Tools (BIRT)
 * Docker
-* MYSQL, PostgreSQL, MongoDB
+* MYSQL, Postgres, MongoDB
 ## Profiles
 * [Youtube](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
 * [ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
