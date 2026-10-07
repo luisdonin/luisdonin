@@ -11,6 +11,9 @@
 * Business Process Model Notation (BPMN)
 * Business Intelligence and Reporting Tools (BIRT)
 * Docker
+* MYSQL
+* PostgreSQL
+* MongoDB
 ## Who am I?
 Well, I've always struggled to make these professional, but what the heck. 
 My favorite thing about our field is low level programming, although I am versed in other facets of computer science, 
