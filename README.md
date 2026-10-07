@@ -15,8 +15,8 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * Mysql with Workflows and Laravel
 * Docker
 ## Profiles
-### [Youtube](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
-### [ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
+* [Youtube](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
+* [ResearchGate](https://www.researchgate.net/profile/Jose-Donin)
 
 ## Portarias
 * [Responsável pelo Serviço de Informação ao Cidadão - Portaria nº 1893/2026 de 14/09/2026](https://plenussistemas.dioenet.com.br/uploads/view/37351?utm_edicao=3683)
