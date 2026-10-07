@@ -10,7 +10,7 @@ You can see some of the projects I finished (and unfinished) on my Github reposi
 I guess that's that.
 I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we have to use I guess, but I try to avoid as much as possible
 ## Technologies I use at work
-* BPMN Workflow engine - A proprietary engine that implements BPMN elements for distributed systems
+* BPMN Workflow engine, a proprietary engine that implements BPMN elements for distributed systems
 * BIRT - Business Intelligence and Reporting Tools for creating report templates, which are used with BPMN workflows and Digital Processess
 * Laravel for internal systems such as [Estrutura Organizacional](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional), which has Laravel under the hood for CRUD operations
 * Mysql with Workflows and Laravel
