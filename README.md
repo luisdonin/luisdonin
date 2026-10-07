@@ -12,4 +12,14 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 [<img src="https://luisdonin.github.io/cv/img/youtube.png" width="48px">](https://www.youtube.com/channel/UCc4kGNr8H4FCOpCUN2ymuPQ)
 
 
+## Pages I have worked on for the Municipal Government of Marechal Cândido Rondon
+* [Emissão de Processos Digitais](https://www.mcr.pr.gov.br/autoatendimento/servicos/emissao-de-processo-digital)
+* [Consulta de Processos Digitais](https://marechalcandidorondon.atende.net/autoatendimento/servicos/consulta-de-processo-digital)
+* [Cópia de Prontuário Médico](https://marechalcandidorondon.atende.net/autoatendimento/servicos/e-copia-de-prontuario-medico/)
+* [Estrutura Organizacional - Geral](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional)
+* [Estrutura Organizacional - Secretaria de Saúde](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional-secretaria-de-saude)
+* [Estrutura Organizacional - Secretaria de Educação](https://marechalcandidorondon.atende.net/cidadao/pagina/estrutura-organizacional-secretaria-de-educacao)
+* [Acesso à Informação](https://marechalcandidorondon.atende.net/autoatendimento/servicos/acesso-a-informacao)
+* [Portal da Transparencia - Publicidade e Propaganda](https://www.mcr.pr.gov.br/transparencia/item/publicidade-e-propaganda)
+  
 
