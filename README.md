@@ -18,7 +18,7 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 ## TL;DR
 ### I have experience with:
 * Java, PHP, C, x86_64 Assembly
-* Laravel, Spring Boot
+* Laravel, Spring Boot, React
 * RabbitMQ
 * BI, Business Process Model Notation (BPMN), Business Intelligence and Reporting Tools (BIRT)
 * Docker
