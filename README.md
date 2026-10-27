@@ -33,7 +33,8 @@ I enjoy most aspects of computing, I'm not an AI enthusiast but it's a thing we 
 * [Responsável pelo fornecimento de informações no Portal de Transparência do Município de Marechal Cândido Rondon - Portaria nº 2074/2025 de 14/11/2025](https://plenussistemas.dioenet.com.br/uploads/view/32004?utm_edicao=3457)
 * [Comissão Especial Avaliadora relativo ao Pregão Eletrônico nº 65/2025 para a contratação de sistema de gestão pública para atender demanda do Município de Marechal Cândido Rondon - Portaria nº 1906/2025 de 13/10/2025](https://plenussistemas.dioenet.com.br/uploads/view/31551?utm_edicao=3430)
 * [ Grupo de trabalho para saneamento cadastral e modernização digital no âmbito da comissão interna para estudos e implementação da reforma tributária do consumo - Portaria nº 1872/2026, de 10/09/2026](https://plenussistemas.dioenet.com.br/uploads/view/37316?utm_edicao=3681)
-## Pages I have worked on for the Municipal Government of Marechal Cândido Rondon
+## Pages I maintain for the Municipal Government of Marechal Cândido Rondon
+* [Portal da Nota Fiscal Premiada](https://notapremiada.mcr.pr.gov.br/)
 * [Emissão de Processos Digitais](https://www.mcr.pr.gov.br/autoatendimento/servicos/emissao-de-processo-digital)
 * [Consulta de Processos Digitais](https://marechalcandidorondon.atende.net/autoatendimento/servicos/consulta-de-processo-digital)
 * [Cópia de Prontuário Médico](https://marechalcandidorondon.atende.net/autoatendimento/servicos/e-copia-de-prontuario-medico/)
